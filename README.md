@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Universidad Autonoma de Baja California
+#  FIAD Progracion y Metodos numericos 
+# Profesor Roilhi Frajo  Ibarra Hernandez
+* Christian E. González García*
+# Practica 1
+[Ejercicio 1]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/Ejercicio%201%20Practica%201.pages
+[Ejercicio 2]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/Ejer%202%20Prac%201.pages
+[Ejercicio 3]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/Ejerc%203%20Pract1.pages
 
-You can use the [editor on GitHub](https://github.com/Chr1st12n/Proyecto_PyMN_2020/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Practica  2
+[Ejercicio 1]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/Ejerc%20%231%20Pract2.pages
+[Ejercicio 2]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/Ejerc%20%232%20Pract2.pages
+[Ejercicio 3]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/Ejerc%233%20Pract2.pages
+[Ejercicio 4]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/Ejerc%234%20Pract2.pages
+[Ejercicio 5]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/Ejerc%235%20Prat2.pages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Practica 3
+[Ejercicio 1]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P3.pages
+[Ejercicio 2] https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E2%20P3.pages
+[Ejercicio 3]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E3%20P3.pages
+[Ejercicio 4]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E4%20P3.pages
 
-### Markdown
+# Practica 4
+[Ejercicio1]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P4.pages
+[Ejercicio 2]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E2%20P4.pages
+[Ejercicio 3]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E3%20P4.pages
+[Ejercicio 4]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E4%20P4.pages
+[Ejercicio 5]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E5%20P4.pages
+[Ejercicio 6]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E6%20P4.pages
+[Ejercicio 7]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E7%20P4.pages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Practica 5
+[Ejercicio 1]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P5.pages
+[Ejercicio 2]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E2%20P5.pages
+[Ejercicio 3]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E3%20P5.pages
+[Ejercicio 4]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E4%20P5.pages
 
-```markdown
-Syntax highlighted code block
+# Practica 6
+[Ejercicio 1]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P6.pages
+[Ejercicio 2]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E2%20P6.pages
 
-# Header 1
-## Header 2
-### Header 3
+# Practica 10
+[Ejercicio 1]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P10.pages
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Chr1st12n/Proyecto_PyMN_2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Practica 11
+[Ejercicio 1]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P11.pages
+[Ejercicio 2]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E2%20P11.pages
