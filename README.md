@@ -30,18 +30,18 @@
 [Ejercicio 7](https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E7%20P4.pages)
 
 # Practica 5
-[Ejercicio 1]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P5.pages
-[Ejercicio 2]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E2%20P5.pages
-[Ejercicio 3]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E3%20P5.pages
-[Ejercicio 4]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E4%20P5.pages
+[Ejercicio 1](https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P5.pages)
+[Ejercicio 2](https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E2%20P5.pages)
+[Ejercicio 3](https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E3%20P5.pages)
+[Ejercicio 4](https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E4%20P5.pages)
 
 # Practica 6
-[Ejercicio 1]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P6.pages
-[Ejercicio 2]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E2%20P6.pages
+[Ejercicio 1](https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P6.pages)
+[Ejercicio 2](https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E2%20P6.pages)
 
 # Practica 10
-[Ejercicio 1]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P10.pages
+[Ejercicio 1](https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P10.pages)
 
 # Practica 11
-[Ejercicio 1]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P11.pages
-[Ejercicio 2]https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E2%20P11.pages
+[Ejercicio 1](https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E1%20P11.pages)
+[Ejercicio 2](https://github.com/Chr1st12n/Proyecto_PyMN_2020/blob/main/E2%20P11.pages)
